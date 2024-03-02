@@ -18,9 +18,11 @@ tensorflow 2.8.0
 protobuf 3.20
 
 
+
 Instalacja
 
 pip install -r requirements.txt
+
 
 Uruchomienie
 
