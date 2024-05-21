@@ -17,6 +17,10 @@ tensorflow 2.8.0
 
 protobuf 3.20
 
+openai
+
+python-dotenv
+
 
 
 Instalacja
