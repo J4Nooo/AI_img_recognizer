@@ -5,5 +5,5 @@ pandas
 tensorflow==2.8.0
 tensorflow-hub
 protobuf==3.20
-openai
+openai==0.28
 python-dotenv
